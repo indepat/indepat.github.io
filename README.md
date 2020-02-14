@@ -1,2 +1,2 @@
 # indepat.github.io
-Personal webiste to showcase my portfolio
+Personal website to showcase my portfolio
